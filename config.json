@@ -1,5 +1,5 @@
 {
     "frontendTag": "0xd26b5F55901Bab1fD1D4d4adF3A77eCfbA72D284",
     "infuraApiKey": "429e8717039445e5a0176cae6c5f1f97",
-    "testnetOnly": true
+    "testnetOnly": false
 }
